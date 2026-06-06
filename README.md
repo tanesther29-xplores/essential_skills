@@ -125,7 +125,7 @@ After that, Claude builds your personal voice profile and starts writing posts t
 Not at all. If you can copy and paste, you're good.
 
 **Does this work on the free version of Claude?**
-Yes! Though Projects (for saving skills across chats) may require Claude Pro. If you're on the free plan, just paste the skill at the start of each new conversation.
+Yes! Both methods in this guide work on the free plan.
 
 **Can I customise the skill further?**
 Absolutely. Open the `SKILL.md` file, edit any part of it, and re-paste it into Claude. It's just text.
